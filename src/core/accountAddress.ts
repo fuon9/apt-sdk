@@ -65,6 +65,7 @@ export class AccountAddress extends Serializable implements TransactionArgument 
 
   static FOUR: AccountAddress = AccountAddress.from("0x4");
 
+static FIVE: AccountAddress = AccountAddress.from("0x5");
   /**
    * Creates an instance of AccountAddress from a Uint8Array.
    *
