@@ -8,3 +8,4 @@ export * from "./typeTag";
 export * from "./typeTag/parser";
 export * from "./types";
 export * from "./src";
+export * from "./typeTrans";
