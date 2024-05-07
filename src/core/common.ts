@@ -11,6 +11,7 @@ export class ParsingError<T> extends Error {
    * messages are not suitable for their use case. This should be an enum.
    */
   public invalidReason: T;
+  public validReason: V;
 
   constructor(message: string, invalidReason: T) {
     super(message);
