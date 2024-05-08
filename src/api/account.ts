@@ -21,6 +21,7 @@ import {
   WhereArg,
 } from "../types";
 import {
+  privateKey,
   deriveAccountFromPrivateKey,
   getAccountCoinAmount,
   getAccountCoinsCount,
