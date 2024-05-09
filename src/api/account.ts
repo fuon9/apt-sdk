@@ -4,6 +4,7 @@
 import { AccountAddress, PrivateKey, Account as AccountModule, AccountAddressInput } from "../core";
 import {
   AccountData,
+  AccountNumber,
   AnyNumber,
   GetAccountCoinsDataResponse,
   GetAccountCollectionsWithOwnedTokenResponse,
