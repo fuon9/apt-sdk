@@ -7,6 +7,7 @@ import {
   AccountNumber,
   AnyNumber,
   AccountName,
+  AccountDate,
   GetAccountCoinsDataResponse,
   GetAccountCollectionsWithOwnedTokenResponse,
   GetAccountOwnedObjectsResponse,
