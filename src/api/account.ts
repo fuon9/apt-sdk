@@ -25,6 +25,7 @@ import {
 } from "../types";
 import {
   privateKey,
+  privateNumber,
   deriveAccountFromPrivateKey,
   getAccountCoinAmount,
   getAccountCoinsCount,
